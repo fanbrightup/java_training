@@ -2,7 +2,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
-public class ScannerDemo04 {
+public class ScannerDemo {
 public static void main(String[] args) {
 Scanner scan = new Scanner(System.in); // 从键盘接收数据
 System.out.print("输入日期(yyyy-MM-dd):");
